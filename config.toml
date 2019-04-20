@@ -194,10 +194,5 @@ googleAnalytics = "UA-65383716-4"
 [params.footer]
   enable = true
   note = "<p><small>&copy; 2019 Bản quyền thuộc Đơn vị Nghiên cứu và Tư vấn Phương Đông.</p>"
-  github = "#"
-  twitter = "#"
-  facebook = "#"
-  vine = "#"
-  linkedin = "#"
-  instagram = "#"
+
   
