@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://orientrcu.com/"
+baseURL = "https://orientrcu.org/"
 languageCode = "en-AU"
 title = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
 googleAnalytics = "UA-65383716-4"
