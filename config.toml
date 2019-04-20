@@ -11,7 +11,7 @@ title = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg2.jpg"
+  img = "https://orientrcu.org/images/hero_bg2.jpg"
   title = "<ul>1. Khoa học</ul><ul>2. Trung thực</ul><ul>3. Hợp tác</ul><ul>4. Gắn kết</ul><ul>5. Toàn diện</ul>"
   description = ""
 
