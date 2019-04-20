@@ -141,27 +141,27 @@ title = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
 # Team section
 [params.team]
   enable = true
-  title = "Đội ngũ nhân lực"
+  title = "Đội ngũ vận hành"
   description = ""
 
   [[params.team.item]]
     name = "Lê Thị Quỳnh Nhi, TS"
     position = "Chủ tịch Hội đồng thành viên"
     description = ""
-    img = "https://orientrcu.com/images/NhiLTQ2.jpg"
+    img = "https://orientrcu.org/images/NhiLTQ2.jpg"
 
   [[params.team.item]]
     name = "Huỳnh Phạm Thu Hiền, BS"
     position = "Giám đốc tổ chức"
     description = ""
-    img = "https://orientrcu.com/images/HienHPT2.jpg"
+    img = "https://orientrcu.org/images/HienHPT2.jpg"
 
 
   [[params.team.item]]
     name = "Phùng Khánh Lâm, BS, TS"
     position = "Giám đốc chuyên môn"
     description = ""
-    img = "https://orientrcu.com/images/LamPK2.jpg"
+    img = "https://orientrcu.org/images/LamPK2.jpg"
 
   # [[params.team.item]]
   #   name = "Jason Doe"
