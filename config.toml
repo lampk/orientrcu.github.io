@@ -79,7 +79,7 @@ avatar = "https://orientrcu.org/images/puzzle.png"
   [[params.services.item]]
     icon = "icon-eye"
     title = "Tư vấn"
-    description = "Cho cá nhân và tổ chức về: hoạt động nghiên cứu, phát triển phòng nghiên cứu, câu lạc bộ sinh hoạt nghiên cứu, tiếng Anh trong nghiên cứu, tổ chức phòng xét nghiệm, tổ chức hội nghị khoa học."
+    description = "Cho cá nhân và tổ chức về: hoạt động nghiên cứu, phát triển phòng nghiên cứu, câu lạc bộ sinh hoạt nghiên cứu, tiếng Anh trong nghiên cứu, tổ chức hội nghị khoa học."
 
   [[params.services.item]]
     icon = "icon-paper-plane"
