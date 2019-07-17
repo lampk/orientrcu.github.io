@@ -258,7 +258,7 @@ p {
   line-height: 0;
 }
 .fh5co-main-nav .fh5co-menu-1 a {
-  padding: 35px 0;
+  padding: 10px 0;
   margin-right: 30px;
   color: #ccc;
   text-transform: uppercase;
@@ -273,10 +273,12 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a:hover, .fh5co-main-nav .fh5co-menu-1 a:focus, .fh5co-main-nav .fh5co-menu-1 a:active {
   outline: none;
   text-decoration: none;
+  font-weight: bold;
+  color: #0066cc;
 }
 .fh5co-main-nav .fh5co-menu-1 a.active {
-  font-weight: 400;
-  color: #000;
+  font-weight: bold;
+  color: #0066cc;
 }
 .fh5co-main-nav .fh5co-menu-1 {
   width: 100%;
@@ -335,7 +337,7 @@ p {
   }
 }
 
-#fh5co-about {
+#fh5co-mission {
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -347,15 +349,15 @@ p {
   background: #E8ECF1;
   width: 100%;
 }
-#fh5co-about .fh5co-2col {
+#fh5co-mission .fh5co-2col {
   width: 50%;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-about .fh5co-2col {
+  #fh5co-mission .fh5co-2col {
     width: 100%;
   }
 }
-#fh5co-about .fh5co-2col-inner {
+#fh5co-mission .fh5co-2col-inner {
   padding: 5em 0;
   width: 585px;
   margin-right: auto;
@@ -364,34 +366,34 @@ p {
   padding-right: 15px;
 }
 @media screen and (max-width: 1200px) {
-  #fh5co-about .fh5co-2col-inner {
+  #fh5co-mission .fh5co-2col-inner {
     width: 485px;
   }
 }
 @media screen and (max-width: 992px) {
-  #fh5co-about .fh5co-2col-inner {
+  #fh5co-mission .fh5co-2col-inner {
     width: 375px;
   }
 }
 @media screen and (max-width: 768px) {
-  #fh5co-about .fh5co-2col-inner {
+  #fh5co-mission .fh5co-2col-inner {
     width: 100% !important;
     padding: 2em 0 3em 0;
   }
 }
-#fh5co-about .fh5co-2col-inner.left {
+#fh5co-mission .fh5co-2col-inner.left {
   float: right;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-about .fh5co-2col-inner.left {
+  #fh5co-mission .fh5co-2col-inner.left {
     float: none;
   }
 }
-#fh5co-about .fh5co-2col-inner.right {
+#fh5co-mission .fh5co-2col-inner.right {
   float: left;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-about .fh5co-2col-inner.right {
+  #fh5co-mission .fh5co-2col-inner.right {
     float: none;
   }
 }
@@ -469,8 +471,8 @@ p {
   outline: none;
 }
 .fh5co-tabs-container .fh5co-tabs li.active a {
-  color: #69c2c8;
-  border-bottom: 1px solid #69c2c8;
+  color: #0066cc;
+  border-bottom: 1px solid #0066cc;
 }
 @media screen and (max-width: 480px) {
   .fh5co-tabs-container .fh5co-tabs li {

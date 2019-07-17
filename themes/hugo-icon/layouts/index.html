@@ -17,6 +17,14 @@
 	{{ partial "hero.html" . }}
 	
 	{{ partial "nav.html" . }}
+	
+	{{ if .Site.Params.why.enable }}
+	{{ partial "why.html" . }}
+	{{ end }}
+	
+	{{ if .Site.Params.how.enable }}
+	{{ partial "how.html" . }}
+	{{ end }}
 
 	{{ if .Site.Params.mission.enable }}
 	{{ partial "mission.html" . }}

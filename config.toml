@@ -13,18 +13,37 @@ avatar = "https://orientrcu.org/images/puzzle.png"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "https://orientrcu.org/images/hero_bg2.jpg"
-  title = "<ul>1. Khoa học</ul><ul>2. Trung thực</ul><ul>3. Hợp tác</ul><ul>4. Gắn kết</ul><ul>5. Toàn diện</ul>"
+  img = "images/banner.png"
+  title = ""
   description = ""
 
 # Navigation section
 [params.nav]
+  why   = "Vì sao?"
+  how   = "Như thế nào?"
   mission = "Sứ mệnh"
-  services = "Dịch vụ"
-  team = "Đội ngũ"
+  about = "Về chúng tôi"
+  activity = "Hoạt động"
+  blog = "Blog"
   contact = "Liên hệ"
   # Include logo instead if HOME:
-  # logo = "path/to/logo"
+  logo = "images/logoORCU_mod_scaled.png"
+
+# WHY section
+[params.why]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Vì sao?"
+  description = "Chúng tôi cung cấp các dịch vụ tư vấn, đào tạo và tổ chức thực hiện nghiên cứu khoa học và phân tích dữ liệu, đặc biệt là trong lĩnh vực y sinh."
+
+# HOW section
+[params.how]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Như thế nào?"
+  description = "Chúng tôi cung cấp các dịch vụ tư vấn, đào tạo và tổ chức thực hiện nghiên cứu khoa học và phân tích dữ liệu, đặc biệt là trong lĩnh vực y sinh."
 
 # Mission section
 [params.mission]
@@ -46,21 +65,21 @@ avatar = "https://orientrcu.org/images/puzzle.png"
     weight = 1
     name = "mission"
     title = "Sứ mệnh"
-    subtitle = "Cải thiện chất lượng chăm sóc sức khoẻ người dân Việt thông qua nghiên cứu và phát triển nghiên cứu trong cộng đồng y tế Việt Nam."
+    subtitle = "Cải thiện sức khoẻ người dân Việt Nam và các nước đang phát triển thông qua nghiên cứu và phát triển nghiên cứu trong cộng đồng."
     description = ""
 
   [[params.mission.item]]
     weight = 2
     name = "vision"
     title = "Tầm nhìn"
-    subtitle = "<p>Phát triển một cộng đồng vững mạnh được xây dựng trên nền tảng khoa học.</p><p>Mang những giá trị của nghiên cứu khoa học đến gần hơn với cuộc sống đời thường</p>"
+    subtitle = "<p>Tổ chức hàng đầu và có vị thế quốc tế về phát triển nghiên cứu khoa học tại Việt Nam và các nước đang phát triển</p><p>Xây dựng được một cộng đồng lớn mạnh và gắn kết để ủng hộ, hỗ trợ và thực hiện nghiên cứu khoa học.</p><p>Tạo ra được những sản phẩm nghiên cứu khoa học có tính ứng dụng cao và được xã hội đón nhận</p>"
     description = ""
 
   [[params.mission.item]]
     weight = 3
-    name = "objective"
-    title = "Mục tiêu"
-    subtitle = "Thiết lập và nhân rộng mô hình nghiên cứu khoa học tại bệnh viện và các cơ sở y tế trên cả nước."
+    name = "values"
+    title = "Giá trị cốt lõi"
+    subtitle = "<p><b><font color='#0066cc'>Đồng hành</font></b> - Chúng tôi luôn đồng hành cùng người dân và nhân viên y tế trên chặng đường hỗ trợ và phát triển nghiên cứu khoa học</p><p><b><font color='#0066cc'>Gắn kết</font></b> - Chúng tôi gắn kết các chuyên gia và tổ chức hoạt động trong lĩnh vực nghiên cứu khoa học để thực hiện các dự án nhằm giải quyết các vấn đề gắn liền với nhu cầu và thách thức của cuộc sống</p><p><b><font color='#0066cc'>Trung thực</font></b> - Chúng tôi luôn ủng hộ và cam kết đảm bảo tính trung thực và minh bạch trong tất cả các hoạt động của mình</p><p><b><font color='#0066cc'>Sáng tạo</font></b> - Chúng tôi luôn ủng hộ và tìm kiếm những giải pháp mới và sáng tạo để giải quyết các vấn đề cuả cuộc sống</p>"
     description = ""
 
 # Services section
