@@ -19,9 +19,9 @@ avatar = "https://orientrcu.org/images/puzzle.png"
 
 # Navigation section
 [params.nav]
+  mission = "Sứ mệnh"
   why   = "Vì sao?"
   how   = "Như thế nào?"
-  mission = "Sứ mệnh"
   about = "Về chúng tôi"
   activity = "Hoạt động"
   blog = "Blog"
@@ -29,21 +29,6 @@ avatar = "https://orientrcu.org/images/puzzle.png"
   # Include logo instead if HOME:
   logo = "images/logoORCU_mod_scaled.png"
 
-# WHY section
-[params.why]
-  enable = true
-  video = false
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Vì sao?"
-  description = "Chúng tôi cung cấp các dịch vụ tư vấn, đào tạo và tổ chức thực hiện nghiên cứu khoa học và phân tích dữ liệu, đặc biệt là trong lĩnh vực y sinh."
-
-# HOW section
-[params.how]
-  enable = true
-  video = false
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Như thế nào?"
-  description = "Chúng tôi cung cấp các dịch vụ tư vấn, đào tạo và tổ chức thực hiện nghiên cứu khoa học và phân tích dữ liệu, đặc biệt là trong lĩnh vực y sinh."
 
 # Mission section
 [params.mission]
@@ -53,13 +38,13 @@ avatar = "https://orientrcu.org/images/puzzle.png"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/mission_image_3.png"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/mission_image_2.png"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/mission_image_2.png"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "images/mission_image_1.png"
 
   [[params.mission.item]]
     weight = 1
@@ -115,49 +100,88 @@ avatar = "https://orientrcu.org/images/puzzle.png"
     title = "Thực hành y tế toàn cầu"
     description = "Chúng tôi hợp tác hướng dẫn sinh viên trong nước và quốc tế về y tế toàn cầu và y tế công cộng."
 
+# WHY section
+[params.why]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Vì sao?"
+  description = ""
+  
+[params.why2]
+  enable = true
+  
+  [[params.why2.item]]
+    title = ""
+    subtitle = "Việt Nam vẫn đang nằm trong nhóm các quốc gia đang phát triển"
+    img = "images/why_country.png"
+
+  [[params.why2.item]]
+    title = ""
+    subtitle = "Các quốc gia đang phát triển phải gánh đến 90% gánh nặng y tế toàn cầu"
+    img = "images/why_health.png"
+
+  [[params.why2.item]]
+    title = "'NO HEALTH WITHOUT RESEARCH'"
+    subtitle = ""
+    img = "images/why_key.png"
+
+  [[params.why2.item]]
+    title = "NHƯNG"
+    subtitle = "Chỉ 10% kinh phí nghiên cứu dành cho các vấn đề ở các nước đang phát triển"
+    img = "images/why_research.png"
+
+# HOW section
+[params.how]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Như thế nào?"
+  description = ""
+  
+  [[params.how.item]]
+    title = "KẾT NỐI"
+    subtitle = "Kết nối các chuyên gia và tổ chức hoạt động nghiên cứu khoa học"
+    img = "images/approach_ketnoi.png"
+    
+  [[params.how.item]]
+    title = "TƯ VẤN"
+    subtitle = "Tư vấn cho cá nhân và tổ chức về nghiên cứu khoa học"
+    img = "images/approach_tuvan.png"
+    
+  [[params.how.item]]
+    title = "ĐÀO TẠO"
+    subtitle = "Đào tạo kiến thức và kỹ năng về nghiên cứu khoa học"
+    img = "images/approach_daotao.png"
+    
+  [[params.how.item]]
+    title = "NGHIÊN CỨU"
+    subtitle = "Nghiên cứu và ứng dụng kết quả nghiên cứu khoa học vào cuộc sống"
+    img = "images/approach_nghiencuu.png"
+
 # Work section
 [params.work]
-  enable = false
+  enable = true
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_1.jpg"
+    title = "KẾT NỐI"
+    subtitle = "Kết nối các chuyên gia và tổ chức hoạt động nghiên cứu khoa học"
+    img = "images/approach_ketnoi.png"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    title = "TƯ VẤN"
+    subtitle = "Tư vấn cho cá nhân và tổ chức về nghiên cứu khoa học"
+    img = "images/approach_tuvan.png"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    title = "ĐÀO TẠO"
+    subtitle = "Đào tạo kiến thức và kỹ năng về nghiên cứu khoa học"
+    img = "images/approach_daotao.png"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_4.jpg"
+    title = "NGHIÊN CỨU"
+    subtitle = "Nghiên cứu và ứng dụng kết quả nghiên cứu khoa học vào cuộc sống"
+    img = "images/approach_nghiencuu.png"
 
 # Team section
 [params.team]
@@ -198,11 +222,320 @@ avatar = "https://orientrcu.org/images/puzzle.png"
   #   github = "#"
   #   whatsapp = "#"
 
+# founder section
+[params.founder]
+  name = "founder"
+  enable = true
+  title = "Người sáng lập"
+  description = "Đơn vị được thành lập đầu năm 2019 bởi 3 sáng lập viên"
+
+  [[params.founder.item]]
+    name = "Lê Thị Quỳnh Nhi"
+    firstname = "Nhi"
+    position = ""
+    description = "Tiến sĩ"
+    img = "images/team/LeThiQuynhNhi.jpg"
+
+  [[params.founder.item]]
+    name = "Huỳnh Phạm Thu Hiền"
+    firstname = "Hien"
+    position = ""
+    description = "Bác sĩ Y học dự phòng"
+    img = "images/team/HuynhPhamThuHien.jpg"
+
+
+  [[params.founder.item]]
+    name = "Phùng Khánh Lâm"
+    firstname = "Lam"
+    position = ""
+    description = "Bác sĩ, Tiến sĩ"
+    img = "images/team/PhungKhanhLam.jpg"
+
+# team section
+[params.team2]
+  name = "team2"
+  enable = true
+  title = "Vận hành"
+  description = "Đơn vị hoạt động với một đội ngũ các bạn trẻ nhiệt huyết và đam mê nghiên cứu khoa học"
+
+  [[params.team2.item]]
+    name = "Huỳnh Phạm Thu Hiền"
+    firstname = "Hien"
+    position = "Giám đốc Điều hành"
+    description = ""
+    img = "images/team/HuynhPhamThuHien.jpg"
+
+  [[params.team2.item]]
+    name = "Lê Thị Tú Oanh"
+    firstname = "Oanh"
+    position = "Giám đốc Truyền thông"
+    description = ""
+    img = "images/team/person.png"
+
+  [[params.team2.item]]
+    name = "Phùng Khánh Lâm"
+    firstname = "Lam"
+    position = "Giám đốc Chuyên môn"
+    description = ""
+    img = "images/team/PhungKhanhLam.jpg"
+    
+  [[params.team2.item]]
+    name = "Ong Phúc Thịnh"
+    firstname = "Thinh"
+    position = "Trợ giảng"
+    description = ""
+    img = "images/team/person.png"
+    
+# advisor section
+[params.advisor]
+  name = "advisor"
+  enable = true
+  title = "Cố vấn"
+  description = "Chúng tôi vinh dự nhận được sự ủng hộ và hỗ trợ từ các cố vấn chuyên môn, là những nhà khoa học có uy tín trong lĩnh vực nghiên cứu y học tại Việt Nam và trên thế giới"
+
+  [[params.advisor.item]]
+    name = "Nguyễn Văn Vĩnh Châu"
+    firstname = "Chau"
+    position = ""
+    description = "Bác sĩ, Tiến sĩ"
+    img = "images/team/person.png"
+
+  [[params.advisor.item]]
+    name = "Stephen Baker"
+    firstname = "Baker"
+    position = ""
+    description = "Tiến sĩ"
+    img = "images/team/person.png"
+
+# affilliated section
+[params.aff]
+  name = "aff"
+  enable = true
+  title = "Chuyên gia hợp tác"
+  description = "Chúng tôi may mắn có cơ hội hợp tác và trao đổi chuyên môn với nhiều nhà khoa học đã và đang công tác tại các Trường đại học và Viện nghiên cứu trong và ngoài nước trên nhiều lĩnh vực khác nhau"
+
+
+  [[params.aff.item]]
+    name = "Phùng Khánh Lâm"
+    firstname = "Lam"
+    position = "OUCRU-HCM"
+    degree = "Bác sĩ, Tiến sĩ"
+    description = "Sinh thống kê"
+    img = "images/team/PhungKhanhLam.jpg"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Thị Minh Trang"
+    firstname = "Trang"
+    position = "ĐHYD TPHCM"
+    degree = "Bác sĩ, Tiến sĩ"
+    description = "Sinh thống kê"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Phạm Nhật Tuấn"
+    firstname = "Tuan"
+    position = "ĐHYD TPHCM"
+    degree = "Thạc sĩ"
+    description = "Dịch tễ học"
+    img = "images/team/PhamNhatTuan.jpg"
+    
+  [[params.aff.item]]
+    name = "Huỳnh Hồ Ngọc Quỳnh"
+    firstname = "Quynh"
+    position = "ĐHYD TPHCM"
+    degree = "Tiến sĩ"
+    description = "Giáo dục và nâng cao sức khoẻ"
+    img = "images/team/HuynhHoNgocQuynh.jpg"
+    
+  [[params.aff.item]]
+    name = "Kim Xuân Loan"
+    firstname = "Loan"
+    position = "ĐHYD TPHCM"
+    degree = "Thạc sĩ"
+    description = "Dịch tễ học"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Minh Triết"
+    firstname = "Triet"
+    position = "ND"
+    degree = "Thạc sĩ"
+    description = "Tổ chức phòng xét nghiệm"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Mạnh Tuân"
+    firstname = "Tuan"
+    position = "ND"
+    degree = "Học viên Thạc sĩ"
+    description = "Quản lý chất lượng bệnh viện"
+    img = "images/team/NguyenManhTuan.jpg"
+    
+  [[params.aff.item]]
+    name = "Khiếu Thị Quỳnh Trang"
+    firstname = "Trang"
+    position = "ND"
+    degree = "Bác sĩ, Tiến sĩ"
+    description = "Hệ thống y tế"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Minh Nguyệt"
+    firstname = "Nguyet"
+    position = "OUCRU-HCM"
+    degree = "Bác sĩ, Tiến sĩ"
+    description = "Nghiên cứu lâm sàng"
+    img = "images/team/NguyenMinhNguyet.jpg"
+    
+  [[params.aff.item]]
+    name = "Phạm Nguyễn Quỳnh Anh"
+    firstname = "Anh"
+    position = "ND"
+    degree = "Bác sĩ, Nghiên cứu sinh Tiến sĩ"
+    description = "Dịch tễ học"
+    img = "images/team/person.png" 
+    
+  [[params.aff.item]]
+    name = "Lâm Tuấn Thanh"
+    firstname = "Thanh"
+    position = "ND"
+    degree = "Tiến sĩ"
+    description = "Nghiên cứu y sinh"
+    img = "images/team/person.png"  
+    
+  [[params.aff.item]]
+    name = "Chung Thế Hào"
+    firstname = "Hao"
+    position = "OUCRU-HCM"
+    degree = "Tiến sĩ"
+    description = "Di truyền học, Sinh tin"
+    img = "images/team/person.png"  
+    
+  [[params.aff.item]]
+    name = "Vũ Thuỳ Dương"
+    firstname = "Duong"
+    position = "BV Nhi đồng 1"
+    degree = "Tiến sĩ"
+    description = "Nghiên cứu lâm sàng"
+    img = "images/team/VuThuyDuong.jpg"
+    
+  [[params.aff.item]]
+    name = "Lê Thị Quỳnh Nhi"
+    firstname = "Nhi"
+    position = "ĐHYD TPHCM"
+    degree = "Tiến sĩ"
+    description = "Dinh dưỡng cộng đồng"
+    img = "images/team/LeThiQuynhNhi.jpg"
+    
+  [[params.aff.item]]
+    name = "Lê Đăng Khoa"
+    firstname = "Khoa"
+    position = "ND"
+    degree = "Thạc sĩ"
+    description = "Tổ chức phòng NCKH"
+    img = "images/team/LeDangKhoa.jpg"
+    
+  [[params.aff.item]]
+    name = "Lê Thị Tú Oanh"
+    firstname = "Oanh"
+    position = "ND"
+    degree = "Cử nhân YTCC"
+    description = "Quản lý nghiên cứu cộng đồng"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Huỳnh Thị Phương Hồng"
+    firstname = "Hong"
+    position = "ĐHYD TPHCM"
+    degree = "Tiến sĩ"
+    description = "Nghiên cứu định tính"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Đoàn Duy Tân"
+    firstname = "Tan"
+    position = "ĐHYD TPHCM"
+    degree = "Bác sĩ"
+    description = "Nghiên cứu cộng đồng"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Minh Nam"
+    firstname = "Nam"
+    position = "ND"
+    degree = "Kiến trúc sư"
+    description = "Quản lý dự án cộng đồng"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Thị Xuân Hoa"
+    firstname = "Hoa"
+    position = "ND"
+    degree = "Thạc sĩ"
+    description = "Tâm lý trị liệu"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Thị Kim Ngọc"
+    firstname = "Ngoc"
+    position = "ND"
+    degree = "Thạc sĩ"
+    description = "Công tác xã hội"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Bùi Thị Hoàng Lan"
+    firstname = "Lan"
+    position = "ĐHYD TPHCM"
+    degree = "Thạc sĩ"
+    description = "Dinh dưỡng cộng đồng"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Nguyễn Thanh Bình"
+    firstname = "Binh"
+    position = "ĐHYD TPHCM"
+    degree = "Tiến sĩ"
+    description = "Y tế công cộng"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Lê Minh Thuận"
+    firstname = "Thuan"
+    position = "ĐHYD TPHCM"
+    degree = "Tiến sĩ"
+    description = "Tâm lý y học"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Đào Nguyễn Vĩnh"
+    firstname = "Vinh"
+    position = "OUCRU-HCM"
+    degree = "Tiến sĩ"
+    description = "Mô hình toán"
+    img = "images/team/person.png"
+    
+  [[params.aff.item]]
+    name = "Hạ Minh Lâm"
+    firstname = "Lam"
+    position = "OUCRU-HCM"
+    degree = "Nghiên cứu sinh Tiến sĩ"
+    description = "Mô hình toán"
+    img = "images/team/HaMinhLam.jpg"
+    
+  [[params.aff.item]]
+    name = "Trần Đăng Nguyên"
+    firstname = "Nguyen"
+    position = "ND"
+    degree = "Tiến sĩ"
+    description = "Mô hình toán"
+    img = "images/team/TranDangNguyen.jpg"
+    
 # Contact section
 [params.contact]
   enable = true
   title = "Liên hệ"
-  message = "Email cho chúng tôi theo địa chỉ orient.rcu@gmail.com hoặc gửi lời nhắn ngay lập tức cho chúng tôi bằng cách điền thông tin vào các mục dưới đây:"
+  message = "Bạn có thể điền thông tin vào <a href='https://forms.gle/Li5wUMT8D2R21b3b7'> form này </a> hoặc email trực tiếp cho chúng tôi theo địa chỉ orient.rcu@gmail.com."
   name_placeholder = "Họ và tên"
   email_placeholder = "Địa chỉ email"
   email_disclaimer = "Thông tin về email của bạn sẽ được bảo mật."

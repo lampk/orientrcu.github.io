@@ -18,28 +18,36 @@
 	
 	{{ partial "nav.html" . }}
 	
-	{{ if .Site.Params.why.enable }}
-	{{ partial "why.html" . }}
-	{{ end }}
-	
-	{{ if .Site.Params.how.enable }}
-	{{ partial "how.html" . }}
-	{{ end }}
-
 	{{ if .Site.Params.mission.enable }}
 	{{ partial "mission.html" . }}
 	{{ end }}
 	
-	{{ if .Site.Params.services.enable }}
-	{{ partial "services.html" .}}
+	{{ if .Site.Params.why.enable }}
+	{{ partial "why.html" . }}
+	{{ end }}
+	
+	{{ if .Site.Params.why2.enable }}
+	{{ partial "gallery_why.html" .}}
+	{{ end }}
+	
+	{{ if .Site.Params.how.enable }}
+	{{ partial "how.html" . }}
 	{{ end }}
 	
 	{{ if .Site.Params.work.enable }}
 	{{ partial "gallery.html" .}}
 	{{ end }}
 	
+	<!--
+
+	{{ if .Site.Params.services.enable }}
+	{{ partial "services.html" .}}
+	{{ end }}
+	
+	-->
+	
 	{{ if .Site.Params.team.enable }}
-	{{ partial "team.html" .}}
+	{{ partial "team2.html" .}}
 	{{ end }}
 
 	{{ if .Site.Params.contact.enable }}

@@ -5,6 +5,10 @@
 
 	<a href="#" data-nav-section="home">{{ with .Site.Params.nav }}{{ if isset . "logo" }}<img src={{ .logo | absURL }} height="50" alt="">{{ end }}{{ if (not (isset . "logo")) }}Trang chủ{{ end }}{{ end }}</a>
 	
+	{{ if .Site.Params.mission.enable }}
+	<a href="#" data-nav-section="mission">{{ with .Site.Params.nav.mission }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
+	
 	{{ if .Site.Params.why.enable }}
 	<a href="#" data-nav-section="why">{{ with .Site.Params.nav.why }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
@@ -12,13 +16,9 @@
 	{{ if .Site.Params.how.enable }}
 	<a href="#" data-nav-section="how">{{ with .Site.Params.nav.how }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
-
-	{{ if .Site.Params.mission.enable }}
-	<a href="#" data-nav-section="mission">{{ with .Site.Params.nav.mission }}{{ . | markdownify }}{{ end }}</a>
-	{{ end }}
 	
 	<a href="#" data-nav-section="about">{{ with .Site.Params.nav.about }}{{ . | markdownify }}{{ end }}</a>
-	<a href="#" data-nav-section="activity">{{ with .Site.Params.nav.activity }}{{ . | markdownify }}{{ end }}</a>
+	<!--<a href="#" data-nav-section="activity">{{ with .Site.Params.nav.activity }}{{ . | markdownify }}{{ end }}</a>-->
 	<a href="#" data-nav-section="blog">{{ with .Site.Params.nav.blog }}{{ . | markdownify }}{{ end }}</a>
 	
 	{{ if .Site.Params.contact.enable }}

@@ -1,0 +1,16 @@
+<div id="fh5co-gallery-why">
+  {{ range .Site.Params.why2.item }}
+  <a href="{{ .img | absURL }}" class="fh5co-item-why image-popup" style="background-image: url({{ .img | absURL }})">
+    <div class="fh5co-overlay-why"></div>
+    <div class="fh5co-copy-why">
+      <div class="fh5co-copy-inner-why">
+	<h2>{{ .title | markdownify }}</h2>
+	{{ if isset . "subtitle" }}
+	<h3>{{ .subtitle | markdownify }}</h3>
+	{{ end }}
+      </div>
+    </div>
+  </a>
+  {{ end }}
+  
+</div> <!-- END fh5co-gallery -->

@@ -12,9 +12,9 @@
     {{ range .item }}
     <div class="col-md-4">
       <div class="service">
-	<div class="icon"><i class={{ .icon }}></i></div>
-	<h3>{{ .title  | markdownify }}</h3>
-	<p>{{ .description | markdownify }}</p>
+      	<div class="icon"><i class={{ .icon }}></i></div>
+      	<h3>{{ .title  | markdownify }}</h3>
+      	<p>{{ .description | markdownify }}</p>
       </div>
     </div>
     {{ end }}

@@ -1,0 +1,8 @@
+color theme:
+- #0066cc: blue
+- #002b56: blue darker
+- #000408: blue darkest
+- #007af3: blue lightest
+- #ffffff: white
+- #cccccc: grey
+- #000000: black

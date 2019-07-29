@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="800"
+   id="svg7674"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 600 800"
+   sodipodi:docname="why.svg">
+  <defs
+     id="defs7676">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8515">
+      <stop
+         style="stop-color:#0066cc;stop-opacity:1;"
+         offset="0"
+         id="stop8517" />
+      <stop
+         style="stop-color:#0066cc;stop-opacity:0;"
+         offset="1"
+         id="stop8519" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8465">
+      <stop
+         style="stop-color:#0066cc;stop-opacity:1;"
+         offset="0"
+         id="stop8467" />
+      <stop
+         style="stop-color:#0066cc;stop-opacity:0;"
+         offset="1"
+         id="stop8469" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8335">
+      <stop
+         style="stop-color:#0066cc;stop-opacity:1;"
+         offset="0"
+         id="stop8337" />
+      <stop
+         style="stop-color:#0066cc;stop-opacity:0;"
+         offset="1"
+         id="stop8339" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8238">
+      <stop
+         style="stop-color:#0066cc;stop-opacity:1;"
+         offset="0"
+         id="stop8240" />
+      <stop
+         style="stop-color:#0066cc;stop-opacity:0;"
+         offset="1"
+         id="stop8242" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8238"
+       id="radialGradient8246"
+       cx="252.5"
+       cy="147.5"
+       fx="252.5"
+       fy="147.5"
+       r="252.5"
+       gradientTransform="matrix(1,0,0,0.20792079,0,116.83168)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8335"
+       id="radialGradient8343"
+       cx="252.5"
+       cy="252.5"
+       fx="252.5"
+       fy="252.5"
+       r="252.5"
+       gradientTransform="matrix(1,0,0,0.20792079,0,200)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8465"
+       id="radialGradient8471"
+       cx="252.89256"
+       cy="361.15701"
+       fx="252.89256"
+       fy="361.15701"
+       r="252.5"
+       gradientTransform="matrix(1,0,0,0.20792079,0,286.06496)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8515"
+       id="radialGradient8521"
+       cx="252.5"
+       cy="462.5"
+       fx="252.5"
+       fy="462.5"
+       r="252.5"
+       gradientTransform="matrix(1,0,0,0.20792079,0,366.33663)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.21"
+     inkscape:cx="130.82521"
+     inkscape:cy="353.64973"
+     inkscape:current-layer="layer13"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="810"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="504.95868,817.35537"
+       orientation="1,0"
+       id="guide8270" />
+    <sodipodi:guide
+       position="250.41322,907.43802"
+       orientation="1,0"
+       id="guide8272" />
+    <sodipodi:guide
+       position="480.16529,671.07438"
+       orientation="1,0"
+       id="guide8573" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7679">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="country"
+     style="display:inline">
+    <rect
+       style="fill:#fff000;fill-opacity:0;stroke:url(#radialGradient8246);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7688"
+       width="500"
+       height="100"
+       x="2.5"
+       y="97.5"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007af3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="235.48096"
+       y="118.33333"
+       id="text8248"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan8250"
+         x="235.48096"
+         y="118.33333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#007af3;fill-opacity:1;stroke:none;stroke-opacity:1;">Đang phát triển</tspan><tspan
+         sodipodi:role="line"
+         x="235.48096"
+         y="134.42459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#007af3;fill-opacity:1;stroke:none;stroke-opacity:1;"
+         id="tspan8309">(gồm Việt Nam)</tspan></text>
+    <rect
+       style="fill:#007af3;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8274"
+       width="112.3967"
+       height="44.628098"
+       x="182.33298"
+       y="143.05785"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#002b56;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8274-1"
+       width="112.3967"
+       height="44.628098"
+       x="368.7934"
+       y="143.05785"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b56;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="426.25934"
+       y="118.33333"
+       id="text8248-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan8250-0"
+         x="426.25934"
+         y="118.33333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#002b56;fill-opacity:1;stroke:none;stroke-opacity:1;">Phát triển</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.151367"
+       y="147.30225"
+       id="text8248-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="40.151367"
+         y="147.30225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0066cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-2">Quốc gia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffff00;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="301.82684"
+       y="254.92288"
+       id="text8248-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="301.82684"
+         y="254.92288"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:0;stroke:none;stroke-opacity:1;"
+         id="tspan8309-2-1">Quốc gia</tspan></text>
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     transform="translate(0,200)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="health"
+     style="display:inline">
+    <rect
+       style="fill:#fff000;fill-opacity:0;stroke:url(#radialGradient8343);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7688-6"
+       width="500"
+       height="100"
+       x="2.5"
+       y="202.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.91748"
+       y="256.30225"
+       id="text8248-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="62.91748"
+         y="256.30225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0066cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-1">Gánh nặng y tế</tspan></text>
+    <rect
+       style="display:inline;fill:#007af3;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8274-6"
+       width="270"
+       height="44.628098"
+       x="180"
+       y="226.31406" />
+    <rect
+       style="display:inline;fill:#002b56;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8274-6-1"
+       width="30"
+       height="44.628098"
+       x="450"
+       y="226.31406" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="325.76074"
+       y="254.04686"
+       id="text8248-2-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="325.76074"
+         y="254.04686"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-2-3">90%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="465.20151"
+       y="253.65761"
+       id="text8248-2-5-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="465.20151"
+         y="253.65761"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-2-3-7">10%</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="key"
+     style="display:inline">
+    <rect
+       style="fill:#fff000;fill-opacity:0;stroke:url(#radialGradient8471);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7688-6-7"
+       width="500"
+       height="100"
+       x="2.5"
+       y="307.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="251.54297"
+       y="357.30225"
+       id="text8248-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="251.54297"
+         y="357.30225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0066cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-1-2">Nghiên cứu y học là chìa khoá để cải thiện sức khoẻ người dân</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="research"
+     style="display:inline">
+    <rect
+       style="fill:#fff000;fill-opacity:0;stroke:url(#radialGradient8521);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7688-6-7-4"
+       width="500"
+       height="100"
+       x="2.5"
+       y="412.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.9501953"
+       y="456.211"
+       id="text8248-3-3-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="8.9501953"
+         y="456.211"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#0066cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-1-2-8-5">Kinh phí đầu tư cho </tspan><tspan
+         sodipodi:role="line"
+         x="8.9501953"
+         y="472.30225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#0066cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8541-5">nghiên cứu y học</tspan></text>
+    <g
+       id="g8615-9"
+       transform="translate(0,-0.04133606)">
+      <rect
+         y="438.41324"
+         x="180"
+         height="44.628098"
+         width="30"
+         id="rect8274-6-5-8"
+         style="display:inline;fill:#007af3;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="438.41324"
+         x="210"
+         height="44.628098"
+         width="270"
+         id="rect8274-6-1-2-7"
+         style="display:inline;fill:#002b56;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="347.58032"
+       y="465.90182"
+       id="text8248-2-5-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="347.58032"
+         y="465.90182"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-2-3-4">90%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.02106"
+       y="465.51257"
+       id="text8248-2-5-9-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="195.02106"
+         y="465.51257"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan8309-2-3-7-8">10%</tspan></text>
+  </g>
+</svg>
