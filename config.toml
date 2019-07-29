@@ -4,7 +4,7 @@ baseURL = ""
 languageCode = "en-AU"
 title = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
 googleAnalytics = "UA-65383716-4"
-avatar = "https://orientrcu.org/images/puzzle.png"
+avatar = "images/logoORCU_mod_scaled.png"
 
 # Metadata
 [params]

@@ -68,7 +68,7 @@
     	  </p>
     
         {{ range sort .Site.Params.team2.item "firstname" }}
-          <div class="col-md-3 col-xs-3">
+          <div class="col-md-3">
             <div class="person">
 	            <img src="{{ .img | absURL }}" alt="" class="img-responsive">
 	            <h3>{{ .name }}</h3>
@@ -87,7 +87,7 @@
     	  </p>
     
         {{ range sort .Site.Params.advisor.item "firstname" }}
-          <div class="col-md-3 col-xs-3">
+          <div class="col-md-3">
             <div class="person">
 	            <img src="{{ .img | absURL }}" alt="" class="img-responsive">
 	            <h3>{{ .name }}</h3>
@@ -107,7 +107,7 @@
     	  </p>
     
         {{ range sort .Site.Params.aff.item "firstname" }}
-          <div class="col-md-3 col-xs-3">
+          <div class="col-md-3">
             <div class="person">
 	            <img src="{{ .img | absURL }}" alt="" class="img-responsive">
 	            <h3>{{ .name }}</h3>

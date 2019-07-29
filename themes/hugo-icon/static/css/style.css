@@ -926,6 +926,22 @@ p {
   transition: 0.5s;
 }
 
+@media screen and (max-width: 1200px) {
+  #fh5co-gallery-why .fh5co-item-why {
+    height: 100px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #fh5co-gallery-why .fh5co-item-why {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 480px) {
+  #fh5co-gallery-why .fh5co-item-why {
+    width: 100%;
+  }
+}
+
 #fh5co-gallery-why .fh5co-item-why .fh5co-overlay-why {
   position: absolute;
   top: 0;
@@ -950,11 +966,23 @@ p {
   width: 100%;
 }
 
+@media screen and (max-width: 1200px) {
+  #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why {
+    height: 100px;
+  }
+}
+
 #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why > .fh5co-copy-inner-why {
   width: 100%;
   height: 130px;
   display: table-cell;
   vertical-align: middle;
+}
+
+@media screen and (max-width: 1200px) {
+  #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why > .fh5co-copy-inner-why {
+    height: 100px;
+  }
 }
 
 #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why > .fh5co-copy-inner-why h2, #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why > .fh5co-copy-inner-why h3 {
@@ -1001,6 +1029,8 @@ p {
 #fh5co-gallery-why .fh5co-item-why:hover .fh5co-copy-inner-why h3, #fh5co-gallery-why .fh5co-item-why:focus .fh5co-copy-inner-why h3, #fh5co-gallery-why .fh5co-item-why:active .fh5co-copy-inner-why h3 {
   bottom: 0;
 }
+
+
 
 #fh5co-team2 {
   display: -webkit-box;
