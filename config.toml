@@ -13,8 +13,8 @@ avatar = "images/logoORCU_mod_scaled.png"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/banner.png"
-  title = ""
+  img = "images/banner2.png"
+  title = "CẢI THIỆN SỨC KHOẺ bằng hoạt động NGHIÊN CỨU KHOA HỌC"
   description = ""
 
 # Navigation section

@@ -222,6 +222,7 @@ p {
 }
 #fh5co-home .fh5co-copy-inner h1 {
   color: #fff;
+  text-align: justify;
   font-size: 55px;
   margin-bottom: 20px;
   line-height: 1.2;
