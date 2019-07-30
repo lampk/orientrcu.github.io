@@ -19,7 +19,7 @@
 	
 	<a href="#" data-nav-section="about">{{ with .Site.Params.nav.about }}{{ . | markdownify }}{{ end }}</a>
 	<!--<a href="#" data-nav-section="activity">{{ with .Site.Params.nav.activity }}{{ . | markdownify }}{{ end }}</a>-->
-	<a href="https://orientrcu.github.io/orientrcu_blog">{{ with .Site.Params.nav.blog }}{{ . | markdownify }}{{ end }}</a>
+	<a href="https://orientrcu.github.io/orientrcu_blog/" class="external">{{ with .Site.Params.nav.blog }}{{ . | markdownify }}{{ end }}</a>
 	
 	{{ if .Site.Params.contact.enable }}
 	<a href="#" data-nav-section="contact">{{ with .Site.Params.nav.contact }}{{ . | markdownify }}{{ end }}</a>
