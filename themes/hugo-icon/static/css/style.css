@@ -796,8 +796,14 @@ p {
   transition: 0.5s;
 }
 @media screen and (max-width: 1200px) {
+  #fh5co-gallery {
+  width: 80%;
+  padding: 0 50px 50px 50px;
+}
+
   #fh5co-gallery .fh5co-item {
     height: 200px;
+    left: 0%;
   }
 }
 @media screen and (max-width: 768px) {
@@ -901,21 +907,18 @@ p {
   height: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding: 0 50px 100px 50px;
 }
 
 #fh5co-gallery-why .fh5co-item-why {
   display: block;
   position: relative;
-  
   width: 100%;
   z-index: 2;
   background-size: 95%;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 130px;
-  float: left;
-  left: 0%;
+  height: 200px;
+  left: -20%;
   border: 1px solid #e6e6e6;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
   -moz-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
@@ -927,18 +930,25 @@ p {
 }
 
 @media screen and (max-width: 1200px) {
+  #fh5co-gallery-why {
+  width: 100%;
+}
+
   #fh5co-gallery-why .fh5co-item-why {
     height: 100px;
+    left: 0%;
   }
 }
 @media screen and (max-width: 768px) {
   #fh5co-gallery-why .fh5co-item-why {
     width: 100%;
+    left: 0%;
   }
 }
 @media screen and (max-width: 480px) {
   #fh5co-gallery-why .fh5co-item-why {
     width: 100%;
+    left: 0%;
   }
 }
 
@@ -960,7 +970,7 @@ p {
 #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why {
   z-index: 3;
   position: relative;
-  height: 130px;
+  height: 200px;
   display: table;
   text-align: center;
   width: 100%;
@@ -974,7 +984,7 @@ p {
 
 #fh5co-gallery-why .fh5co-item-why .fh5co-copy-why > .fh5co-copy-inner-why {
   width: 100%;
-  height: 130px;
+  height: 200px;
   display: table-cell;
   vertical-align: middle;
 }
@@ -1002,6 +1012,7 @@ p {
   transition: 0.3s;
   position: relative;
 }
+
 #fh5co-gallery .fh5co-item .fh5co-copy > .fh5co-copy-inner h3 {
   font-size: 16px;
   color: rgba(255, 255, 255, 0.7);
@@ -1011,6 +1022,10 @@ p {
   position: relative;
   bottom: -10px;
 }
+
+
+
+
 #fh5co-gallery-why .fh5co-item-why:hover, #fh5co-gallery-why .fh5co-item-why:focus, #fh5co-gallery-why .fh5co-item-why:active {
   background-size: 95%;
   text-decoration: none;

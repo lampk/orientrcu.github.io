@@ -1,4 +1,5 @@
 <div id="fh5co-gallery-why">
+  <div class="container">
   {{ range .Site.Params.why2.item }}
   <a href="{{ .img | absURL }}" class="fh5co-item-why image-popup" style="background-image: url({{ .img | absURL }})">
     <div class="fh5co-overlay-why"></div>
@@ -12,5 +13,5 @@
     </div>
   </a>
   {{ end }}
-  
+  </div>
 </div> <!-- END fh5co-gallery -->
